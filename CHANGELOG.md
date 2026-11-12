@@ -2,6 +2,12 @@
 
 User-facing changes for each Wingman release, newest first.
 
+## 0.7.2 (2026-11-12)
+
+### Changed
+- You can now see other pilots on the map without the sim or a flight. A new setting, "Show other pilots on the map", is separate from sharing your own position. It sends only a random install id, never your position.
+- Sharing your position ("Show my position to other pilots") is unchanged: it stays off by default and only runs while the sim is connected and your plane is flying.
+
 ## 0.7.1 (2026-11-12)
 
 ### Changed
