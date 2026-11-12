@@ -2,6 +2,11 @@
 
 User-facing changes for each Wingman release, newest first.
 
+## 0.7.1 (2026-11-12)
+
+### Changed
+- Other pilots now show on the map from anywhere in the world, not only nearby. The setting is now called "Show my position to other pilots".
+
 ## 0.7.0-beta (2026-11-12)
 
 ### Added
