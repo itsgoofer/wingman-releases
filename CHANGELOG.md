@@ -2,6 +2,13 @@
 
 User-facing changes for each Wingman release, newest first.
 
+## 0.7.0-beta (2026-11-12)
+
+### Added
+- Other pilots on the map (opt-in, off by default): turn on "Show my position to nearby pilots" in Settings to see other Wingman pilots as violet planes while you fly, and let them see you.
+- Only your callsign, position, altitude, heading, speed and aircraft type are shared, only during an active flight, and they disappear about a minute after you stop.
+- A new Pilots chip next to Traffic on the map hides or shows them.
+
 ## 0.6.0-beta (2026-11-10)
 
 ### Changed
